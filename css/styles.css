@@ -253,6 +253,12 @@ img {
     margin: 0 auto;
 }
 
+@media (min-resolution: 2x) {
+    .hero-section {
+        background-image: url("../images/hero-background\(2x\).jpg");
+    }
+}
+
 .hero-title {
     max-width: 216px;
     font-weight: 700;
