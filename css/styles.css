@@ -838,6 +838,11 @@ img {
 
 
 @media screen and (min-width: 768px) {
+    .footer-container {
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+
     .footer-logo-wrap {
         max-width: 264px;
         margin-right: 24px;
