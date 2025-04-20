@@ -1,0 +1,41 @@
+
+
+
+
+
+.features-icon-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    background-color: #f4f4fd;
+    width: 264px;
+    height: 112px;
+    margin-bottom: 8px;
+}
+
+
+
+
+.features-title,
+.team-title,
+.portfolio-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    margin-bottom: 8px;
+}
+
+.features-text,
+.team-text,
+.portfolio-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+
+
