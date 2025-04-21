@@ -610,6 +610,10 @@ img {
             padding: 96px 0;
         }
 
+    .team-section .container {
+        max-width: 582px;
+    }
+
     .team-list {
         flex-direction: row;
         flex-wrap: wrap;
@@ -627,6 +631,10 @@ img {
     .team-section {
             padding: 120px 0;
         }
+    
+    .team-section .container {
+        max-width: 1158px;
+    }
 
     .team-list {
             align-items: center;
@@ -861,6 +869,10 @@ img {
             flex-wrap: wrap;
         }
 
+    .page-footer .container {
+        max-width: 582px;
+    }
+
     .footer-logo-wrap {
         max-width: 264px;
         margin-right: 24px;
@@ -884,6 +896,9 @@ img {
 @media screen and (min-width: 1158px) {
     .page-footer {
             padding: 100px 0;
+        }
+        .page-footer .container {
+            max-width: 1158px;
         }
     
         .footer-container {
