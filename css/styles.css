@@ -226,6 +226,7 @@ img {
     height: 100%;
     background-color: #fff;
     padding: 24px 24px 40px 16px;
+
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -245,8 +246,8 @@ img {
     pointer-events: auto;
 }
 
-.mobile-menu-list {
-    margin-bottom: 24px;
+.mobile-nav {
+    margin-bottom: 168px;
 }
 
 .mobile-menu-item:not(:last-child) {
@@ -267,6 +268,7 @@ img {
 
 .mobile-address {
     font-style: normal;
+    margin-bottom: 48px;
 }
 
 .mobile-address-list {
@@ -950,7 +952,7 @@ img {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 408px;
+    width: 288px;
     min-height: 584px;
     border-radius: 4px;
     padding: 72px 24px 24px 24px;
