@@ -422,7 +422,7 @@ img {
 
 
 .features-section {
-    padding: 96px 16px;
+    padding: 96px 0;
 }
 
 .features-list {
@@ -547,7 +547,7 @@ img {
 }
 
 .team-item {
-    width: 100%;
+    width: auto;
     background-color: #fff;
     border-radius: 0px 0px 4px 4px;
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
@@ -665,7 +665,7 @@ img {
 }
 
 .portfolio-item {
-    width: 100%;
+    width: auto;
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
